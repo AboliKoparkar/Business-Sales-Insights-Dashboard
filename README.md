@@ -17,6 +17,12 @@ This Power BI dashboard analyzes business sales data to generate meaningful insi
 * Power BI
 * DAX
 * Power Query
+
+* Screenshot
+* ## 📸 Dashboard Preview
+
+![Dashboard](Screenshot%20(244).png)
+![Dashboard](Screenshot%20(246).png)
   
 ## 🚀 Conclusion
 
